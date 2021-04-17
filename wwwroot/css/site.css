@@ -48,3 +48,7 @@ a, .btn-link {
         right: 0.75rem;
         top: 0.5rem;
     }
+
+.e-tab .e-tab-header .e-toolbar-item .e-tab-text {
+    user-select: none;
+}

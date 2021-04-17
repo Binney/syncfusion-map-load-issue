@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.Blazor.Maps" Version="18.4.0.39" />
+    <PackageReference Include="Syncfusion.Blazor.Navigations" Version="18.4.0.39" />
+  </ItemGroup>
+
+</Project>
